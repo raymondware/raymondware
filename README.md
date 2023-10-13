@@ -1,4 +1,4 @@
-# Hello World! 🛹 I'm Raymond Ware, But You Can Call Me Ray!
+# Hello World!
 
 Mastering the Art & Code of the Web for more than a decade and a half | JavaScript Junkie 🧙 | Keen Eye & Quick Fingers from Design to Code 💻
 
