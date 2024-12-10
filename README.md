@@ -1,7 +1,7 @@
 # Hello 👋
 
-I'm a seasoned web developer with a passion for crafting exceptional digital experiences. My 15+ years journey in development has been about exploring the vast landscape of web technologies and contributing to innovative projects.
+I've been in the web development game for quite a while. I enjoy writing code that's as simple and readable as it is functional. My areas of expertise include technologies like React, TypeScript, and NextJS, but I’m always exploring new tools and approaches.
 
-- **Versatile Developer:** Proficient in a broad array of programming concepts and web technologies, always aiming for clean, efficient, and impactful solutions.
-- **Creative Problem Solver:** I thrive on turning complex challenges into seamless user experiences, regardless of the tools involved.
-- **Lifelong Learner:** Continuously exploring new methodologies and best practices to stay at the forefront of the ever-evolving web development landscape.
+Coding is as much about community as it is about solving problems, so I’m always open to discussions or questions about technology. Whether you’re stuck on a tricky problem or just want to share some cool ideas, I’m all ears.
+
+Feel free to reach out if you want to talk code, brainstorm on a project, or need some insights on web development.
